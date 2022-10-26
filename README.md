@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 ,, I'm <a href="https://profile.codersrank.io/user/ziad404/">ZE</a></h1> 
-  <h2 align="center"> Software engineer from egypt</h2>
+  <h2 align="center"> Software Test engineer from egypt</h2>
 <div align="center">
 
 <h3 align="center"> Contact </h3>

@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 ,, I'm <a href="https://testautomationu.applitools.com/me.html#ziad-elsoudy">ZE</a></h1> 
   <h2 align="center"> Software Test Engineer From Egypt</h2>
-  <p color="red"  font-family= "Helvetica, Arial, sans-serif"> Hello, i am zyad 🙋‍♂️ Software Test Engineer from egypt 🇪🇬 with highly motivated soft skills and leadership Also i have good knowledge about :
+  <pre> Hello, i am zyad 🙋‍♂️ Software Test Engineer from egypt 🇪🇬 with highly motivated soft skills and leadership Also i have good knowledge about :
 ▪️Manual testing.
 ▪️Static analysis.
 ▪️Generating test cases & Bug reports.
@@ -10,7 +10,7 @@
 ▪️Agile methodologies.
 ▪️Selenium web driver ,TestNG framework.
 🔴Trying to get more knowledge about automation testing with more practice in ongoing days.
-🔴Seeking for an opportunity as Software Test engineer so I can show my potential hard work and develop my skills.</p>
+🔴Seeking for an opportunity as Software Test engineer so I can show my potential hard work and develop my skills.</pre>
 <div align="center">
 
 <h3 align="center"> Contact </h3>

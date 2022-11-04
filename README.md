@@ -13,7 +13,7 @@ Hello, i am zyad 🙋‍♂️ Software Test Engineer from egypt 🇪🇬 with h
 -Selenium web driver ,TestNG framework.
 -Trying to get more knowledge about automation testing with more practice in ongoing days.
 -Seeking for an opportunity as Software Test engineer so I can show my potential hard work and develop my skills.
-
+<div align="center">
 <h3 align="center"> Contact </h3>
 
 [<img align="center" alt="Zyad | email" src="https://img.icons8.com/fluent/22/000000/gmail.png" />](mailto:ziadelsoudy@gmail.com)

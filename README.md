@@ -2,7 +2,7 @@
   <h2 align="center"> Software Test Engineer From Egypt</h2>
   <img src="Software-Tester-1090x572.jpg" align="right" width="25%"/>
   
-Hello, i am zyad 🙋‍♂️ Software Test Engineer from egypt 🇪🇬 with highly motivated soft skills and leadership Also i have good knowledge about :
+<pre textwrap="true">Hello, i am zyad 🙋‍♂️ Software Test Engineer from egypt 🇪🇬 with highly motivated soft skills and leadership Also i have good knowledge about :
 -Manual testing.
 -Static analysis.
 -Generating test cases & Bug reports.
@@ -12,7 +12,7 @@ Hello, i am zyad 🙋‍♂️ Software Test Engineer from egypt 🇪🇬 with h
 -Agile methodologies.
 -Selenium web driver ,TestNG framework.
 -Trying to get more knowledge about automation testing with more practice in ongoing days.
--Seeking for an opportunity as Software Test engineer so I can show my potential hard work and develop my skills.
+-Seeking for an opportunity as Software Test engineer so I can show my potential hard work and develop my skills.</pre>
 <div align="center">
 <h3 align="center"> Contact Me </h3>
 

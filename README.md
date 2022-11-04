@@ -14,7 +14,7 @@ Hello, i am zyad 🙋‍♂️ Software Test Engineer from egypt 🇪🇬 with h
 -Trying to get more knowledge about automation testing with more practice in ongoing days.
 -Seeking for an opportunity as Software Test engineer so I can show my potential hard work and develop my skills.
 <div align="center">
-<h3 align="center"> Contact </h3>
+<h3 align="center"> Contact Me </h3>
 
 [<img align="center" alt="Zyad | email" src="https://img.icons8.com/fluent/22/000000/gmail.png" />](mailto:ziadelsoudy@gmail.com)
 [<img align="center" alt="Zyad | Linkedin" src="https://img.icons8.com/fluent/22/000000/linkedin.png"/>](https://www.linkedin.com/in/ziad-elsoudy-b0b0a41b2/)

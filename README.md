@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 ,, I'm <a href="https://testautomationu.applitools.com/me.html#ziad-elsoudy">ZE</a></h1> 
   <h2 align="center"> Software Test Engineer From Egypt</h2>
-  <img src="Software-Tester-1090x572.jpg" align="right" width="25%"/>
+  <img src="Software-Tester-1090x572.jpg" align="right" width="25%" height="50%"/>
   
 <pre textwrap="true">Hello, i am zyad 🙋‍♂️ Software Test Engineer from egypt 🇪🇬 with highly motivated soft skills and leadership Also i have good knowledge about :
 -Manual testing.

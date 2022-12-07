@@ -1,21 +1,12 @@
-<h1 align="center"> Hi there 👋 ,, I'm <a href="https://testautomationu.applitools.com/me.html#ziad-elsoudy">ZE</a></h1> 
-  <h2 align="center"> Software Test Engineer From Egypt</h2>
-  <img src="Software-Tester-1090x572.jpg" align="right" width="25%" height="50%"/>
-  
-<pre textwrap="true">Hello, i am zyad 🙋‍♂️ Software Test Engineer from egypt 🇪🇬 with highly motivated soft skills and leadership Also i have good knowledge about :
--Manual testing.
--Static analysis.
--Generating test cases & Bug reports.
--Maintain product's quality.
--Testing Apis with postman tool.
--Testing mangement tools like jira, Excel.
--Agile methodologies.
--Selenium web driver ,TestNG framework.
--Trying to get more knowledge about automation testing with more practice in ongoing days.
--Seeking for an opportunity as Software Test engineer so I can show my potential hard work and develop my skills.</pre>
-<div align="center">
-<h3 align="center"> Contact Me </h3>
+<h1 align="center">Hi 👋, I'm Zyad Ahmed Elsoudy</h1>
+<h3 align="center">A passionate Software Quality Control Engineer from Egypt</h3>
 
-[<img align="center" alt="Zyad | email" src="https://img.icons8.com/fluent/22/000000/gmail.png" />](mailto:ziadelsoudy@gmail.com)
-[<img align="center" alt="Zyad | Linkedin" src="https://img.icons8.com/fluent/22/000000/linkedin.png"/>](https://www.linkedin.com/in/ziad-elsoudy-b0b0a41b2/)
-[<img align="center" alt="Zyad | Facebook"  src="https://img.icons8.com/color/22/000000/facebook-new.png"/>](https://www.facebook.com/profile.php?id=100008020117007)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/zyadelsoudy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zyadelsoudy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ziad elsoudy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad elsoudy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ziadelsoudy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ziadelsoudy" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>

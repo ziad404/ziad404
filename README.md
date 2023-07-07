@@ -6,7 +6,7 @@
 
 
 - Software Quality Control Engineer @Trufla Technology ♦️
-- An expert Automation Test Engineer 💻
+- An Automation Test Engineer 💻
 - I Like playing football ⚽
 
 
